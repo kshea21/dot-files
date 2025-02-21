@@ -91,6 +91,7 @@ endif " has("autocmd")
 
 "blr mods
 
+match Keyword /self/
 set nu
 map <C-?> <C-h>
 map! <C-?> <C-h>
